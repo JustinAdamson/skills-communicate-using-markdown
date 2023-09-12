@@ -6,3 +6,7 @@ This is a test of writing using Markdown
 ``` javascript
 var myVar = "Hello, world!";
 ```
+
+- [x] Step 1
+- [ ] Step 2
+- [ ] Step 3
